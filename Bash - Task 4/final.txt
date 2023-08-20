@@ -1,0 +1,7 @@
+12     //this is the count of total no. of lines displayed in output.tsv
+1ea1bfe5885992efa84f3a1383374c3edf2dff17  -           // this is the SHA-1 hash of the content
+Xerox 198	11					//from this to end is the last 5 lines displayed from the output.tsv file
+Xerox 213	64
+Xerox 214	78
+Xerox 217	83
+Xerox Blank Computer Paper	100
